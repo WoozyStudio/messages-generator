@@ -1,0 +1,8 @@
+# Ignore legacy and config files
+
+dep.json
+config
+
+# Ignore templates
+
+src/templates
