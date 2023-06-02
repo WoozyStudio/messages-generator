@@ -2,6 +2,7 @@
 
 dep.json
 config
+.vscode
 
 # Ignore templates
 
