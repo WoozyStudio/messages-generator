@@ -1,0 +1,30 @@
+{
+  "name": "messages-generator",
+  "version": "0.0.1",
+  "description": "Utility bot to generate discord message types.",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WoozyStudio/messages-generator.git"
+  },
+  "keywords": [
+    "discord",
+    "utils",
+    "discord-bot",
+    "messages"
+  ],
+  "author": "Woozy's YT",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/WoozyStudio/messages-generator/issues"
+  },
+  "homepage": "https://github.com/WoozyStudio/messages-generator#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.7.1",
+    "discord-api-types": "^0.37.43",
+    "discord.js": "^14.11.0"
+  }
+}
