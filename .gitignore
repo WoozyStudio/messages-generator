@@ -1,9 +1,13 @@
 # Ignore legacy and config files
 
-dep.json
 config
 .vscode
 
 # Ignore templates
 
 src/templates
+
+# Ignore modules
+
+node_modules
+package-lock.json
